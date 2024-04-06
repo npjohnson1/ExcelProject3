@@ -8,7 +8,5 @@ For the Total Public Debt Outstanding, in the years 2016 - 2019, the average inc
 							
 							
 2. What is the projected growth of the publicly held debt in the next few years?
-![image](https://github.com/npjohnson1/ExcelProject3/assets/144065378/781c93c3-bcc9-4584-9e1b-3bba0ab1e8d7)
-
 Summary/Conclusions: 
 Years 1997 to 2017, there was an increase of about 1 trillion in publicly held debt, from 2008 - 2019, debt increased from 6 trillion to 17 trillion. In the years, 2020 - 2022, debt increased from 21.5 trillion to 25 trillion. It is projected that in 2023 to 2017, the publicly held debt will increase to 33 trillion. In conclusion, publicly held debt will steadily increase at a rate over the 5 years.
